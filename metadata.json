@@ -1,0 +1,6 @@
+{
+  "name": "JENDI Studio Project Estimator",
+  "description": "Υπολόγισε το project σου — Ενδεικτική εκτίμηση κόστους και αποστολή brief για ακριβή προσφορά από το JENDI Studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
